@@ -1,12 +1,12 @@
 +[
 +  {
-+    "repository":  "psxda97/device_motorola_msm8226-common",
++    "repository":  "SlimRoms/device_motorola_msm8226-common",
 +    "target_path": "device/motorola/msm8226-common",
-+    "branch":      "cm-14.1"
++    "branch":      "ng7.1"
 +  },
 +  {
-+    "repository":  "psxda/android_kernel_motorola_msm8226",
++    "repository":  "SlimRoms/kernel_motorola_msm8226",
 +    "target_path": "kernel/motorola/msm8226",
-+    "branch":      "cm-14.1"
++    "branch":      "ng7.1"
 +  }
 +]
